@@ -1,8 +1,8 @@
 ext {
     extName = 'Animated Glitched Comics'
     extClass = '.AnimatedGlitchedComics'
-    themePkg = 'keyoapp'
-    baseUrl = 'https://agrcomics.com'
+    themePkg = 'iken'
+    baseUrl = 'https://agrcomics.org'
     overrideVersionCode = 23
     isNsfw = false
 }
